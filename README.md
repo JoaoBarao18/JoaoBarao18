@@ -22,7 +22,7 @@
 <!-- ───────────────────────── ABOUT ME ───────────────────────── -->
 ## `> ABOUT ME`
 
-I am a final-year **Computer Science and Engineering** student at **ISEC** (expected graduation: June 2027) and a **Full-Stack Developer with a strong emphasis on Backend Engineering and Systems Architecture**. While I build complete end-to-end web applications, my core strength lies in designing robust backend services, RESTful APIs, relational databases, and concurrent low-level systems. Currently, I am actively expanding my focus into **Cloud Infrastructure, AI/LLM Integrations, and Mobile Development**.
+I am a final-year **Computer Science and Engineering** student at **ISEC** (expected graduation: June 2027) and a aspiring **Full-Stack Developer with a strong emphasis on Backend Engineering and Systems Architecture**. While I build complete end-to-end web applications, my core strength lies in designing robust backend services, RESTful APIs, relational databases, and concurrent low-level systems. Currently, I am actively expanding my focus into **Cloud Infrastructure, AI/LLM Integrations, and Mobile Development**.
 
 - ⚙️ **Backend & Systems Core:** Designing scalable APIs, business logic, and multi-process architectures using **Spring Boot**, **Java**, **Node.js**, **C/C++**, **PostgreSQL**, and **Linux/POSIX IPC**
 - 💻 **Full-Stack Web Engineering:** Building reactive, decoupled frontends with **React.js (Vite)**, **TypeScript**, and **Figma** that integrate seamlessly with backend microservices
