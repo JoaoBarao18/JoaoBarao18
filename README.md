@@ -1,7 +1,7 @@
 <!-- ───────────────────────── BANNER ───────────────────────── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:0284c7&text=Joao%20Rafael%20Barao&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20(Backend-Focused)%20%7C%20Cloud%20%C2%B7%20AI%20%C2%B7%20Mobile&descSize=16&descAlignY=60&animation=fadeIn" alt="Banner Joao Rafael Barao" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:0284c7&text=João%20Rafael%20Barão&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20(Backend-Focused)%20%7C%20Cloud%20%C2%B7%20AI%20%C2%B7%20Mobile&descSize=16&descAlignY=60&animation=fadeIn" alt="Banner Joao Rafael Barao" width="100%"/>
 
 <!-- ───────────────────── TYPING ANIMATION ───────────────────── -->
 <a href="https://github.com/JoaoBarao18">
