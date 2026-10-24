@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/joãorafaelbarão"><img src="https://img.shields.io/badge/LinkedIn-joaorafaelbarão-0284C7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/joãorafaelbarão"><img src="https://img.shields.io/badge/LinkedIn-joãorafaelbarão-0284C7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://gitlab.com/JBDEV18"><img src="https://img.shields.io/badge/GitLab-JBDEV18-38BDF8?style=for-the-badge&logo=gitlab&logoColor=0D1117" alt="GitLab"/></a>
 <a href="mailto:jrspsbarao@gmail.com"><img src="https://img.shields.io/badge/Email-jrspsbarao%40gmail.com-1E293B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=JoaoBarao18.JoaoBarao18&left_color=1E293B&right_color=0284C7&left_text=Views" alt="Visits"/>
